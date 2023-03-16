@@ -1,9 +1,7 @@
 '''
-    Description:
-    Create your own Login with Facial Recognition.
-
-    Author: AlejandroV
-    Version: 1.0
+    Description: Create your own Login with Facial Recognition.
+    Author: aulerjbailey
+    Version: 1.0.0
     Video: https://youtu.be/cTSVYwxHn9g
 '''
 from tkinter import *
